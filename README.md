@@ -1,4 +1,4 @@
-<table>
+<table border="3px">
   <tr>
     <td>
       <strong>AÑOS</strong>
