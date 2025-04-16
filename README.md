@@ -22,20 +22,17 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py,processing)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=ps,pr,sketchup&theme=light)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,codepen,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=windows,mint&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mint)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=gmail,instagram,linkedin,discord&theme=light)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=gmail,instagram,linkedin,discord)](https://skillicons.dev)-->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
