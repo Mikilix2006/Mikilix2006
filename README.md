@@ -49,8 +49,8 @@
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=Mikilix2006&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
 <br>
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mikilix2006&layout=compact&langs_count=8&theme=tokyonight) 
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikilix2006&theme=tokyonight" />
+<!--<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikilix2006&theme=tokyonight" />-->
 
 <!--
 <p align="center">
