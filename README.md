@@ -27,7 +27,7 @@
 
 <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/java.svg'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'><img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/php.svg'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'><img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/aws.svg'><img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/bash.svg'><img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/git.svg'><img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/github.svg'>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mint)](https://skillicons.dev)
 <!--[![My Skills](https://skillicons.dev/icons?i=gmail,instagram,linkedin,discord)](https://skillicons.dev)-->
