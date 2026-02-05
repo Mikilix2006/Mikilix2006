@@ -6,19 +6,18 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-<!--
-### 👨🏻‍💻 &nbsp;About Me
--->
 
-<!--
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
--->
+### 👨🏻‍💻 &nbsp;About Me
+
+
+💡 &nbsp;I like exploring new technologies and developing software solutions.\
+🎓 &nbsp;I am currently studying a higher degree in Web Application Development.\
+🌱 &nbsp;I am learning about Artificial Intelligence.\
+✍️ &nbsp;In my free time, I develop small project ideas or solve katas on [Codewars](https://www.codewars.com/).\
+💬 &nbsp;Feel free to contact me whenever you want..\
+✉️ &nbsp;You can write me an email at miguel.gonzalezdelgado06@gmail.com and I will try to respond as soon as possible!.\
+<!--📄 &nbsp;Por favor, tomate un momento para revisar mi página web [Aquí](url)!-->
+
 
 <!--
 [![Github](https://img.shields.io/github/followers/Mikilix2006?label=Follow&style=social)](https://github.com/Mikilix2006)
