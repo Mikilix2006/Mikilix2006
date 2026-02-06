@@ -59,7 +59,7 @@
 <h2>Others 👨🏻‍💻 </h2>
 <h4>IDEs</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,pycharm,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,pycharm)](https://skillicons.dev)
 
 <h4>Know about</h4>
 
