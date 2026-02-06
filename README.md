@@ -6,7 +6,7 @@
 
 <img alt="Banner Mikilix2006" src="assets/banner.png" align="center"/>
 
-# Hola, soy Mikilix2006 👋
+# Hola, soy Miguel 👋
 ### 🚀 &nbsp;About Me
 
 
