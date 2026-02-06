@@ -4,10 +4,12 @@
 
 <!--<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Miguel here 👋</h2>-->
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+# Hola, soy Mikilix2006 👋
+![](https://capsule-render.vercel.app/view?type=waving&color=auto&height=200&section=header&text=Mikilix2006&fontSize=90)
 
+<img alt="Banner Mikilix2006" src="assets/banner.png" align="center"/>
 
-### 👋 &nbsp;About Me
+### 🚀 &nbsp;About Me
 
 
 💡 &nbsp;I like exploring new technologies and developing software solutions.\
@@ -16,6 +18,7 @@
 ✍️ &nbsp;In my free time, I develop small project ideas or solve katas on [Codewars](https://www.codewars.com/).\
 💬 &nbsp;Feel free to contact me whenever you want..\
 ✉️ &nbsp;You can write me an email at miguel.gonzalezdelgado06@gmail.com and I will try to respond as soon as possible!.\
+⚡ "Code is like humor. When you have to explain it, it’s bad."
 <!--📄 &nbsp;Por favor, tomate un momento para revisar mi página web [Aquí](url)!-->
 
 
