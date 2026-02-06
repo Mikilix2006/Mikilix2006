@@ -59,14 +59,17 @@
 <h2>Others 👨🏻‍💻 </h2>
 <h4>IDEs</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,pycharm,visualstudio)](https://skillicons.dev)
 
 <h4>Know about</h4>
-<div>
-  <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/bash.svg'>
+
+[![My Skills](https://skillicons.dev/icons?i=bash,aws,github,codepen,figma,git,photoshop,processing,sqlite,wordpress)](https://skillicons.dev)
+
+<!--div>
+  <img width ='32px' src ='https://github.com/simple-icons/simple-icons/blob/develop/icons/gnubash.svg'>
   <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/aws.svg'>
   <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/github.svg'>
-</div>
+</div-->
 
 <h4>Fauvorite OSs</h4>
 
