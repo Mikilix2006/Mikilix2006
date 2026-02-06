@@ -35,6 +35,7 @@
   <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/java.svg'> 
   <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/php.svg'>
   <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/mysql.svg'>
+  <img width ='50px' src ='/assets/icons/oraclesql.svg'>
   <img width ='32px' src ='https://private-user-images.githubusercontent.com/54738748/344576613-a2c0c383-362a-4716-a84d-24b6a603f930.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzAzNzkxNjIsIm5iZiI6MTc3MDM3ODg2MiwicGF0aCI6Ii81NDczODc0OC8zNDQ1NzY2MTMtYTJjMGMzODMtMzYyYS00NzE2LWE4NGQtMjRiNmE2MDNmOTMwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjA2VDExNTQyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY1YTFiMTEzMThjYWFjZmUzNGVlNWZkMTBjNTFjOTVkMWY3NTAwNzZjMjFiOWQzN2QxYzEwNWYxMTRmZDE3NGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9Eyw2jb31tklVSQksKuExhNlOTvu3aFmvhOYaz-aDWo'>
 </div>
 
