@@ -4,11 +4,9 @@
 
 <!--<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Miguel here 👋</h2>-->
 
-# Hola, soy Mikilix2006 👋
-![](https://capsule-render.vercel.app/view?type=waving&color=auto&height=200&section=header&text=Mikilix2006&fontSize=90)
-
 <img alt="Banner Mikilix2006" src="assets/banner.png" align="center"/>
 
+# Hola, soy Mikilix2006 👋
 ### 🚀 &nbsp;About Me
 
 
