@@ -65,7 +65,7 @@
 <h4>Know about</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=bash,aws,github,codepen,figma,git,photoshop,processing,sqlite,wordpress)](https://skillicons.dev)
-<img width ='32px' src ='/assets/icons/codewars.png'> 
+<img width ='55px' src ='/assets/icons/codewars.png'> 
 
 <!--div>
   <img width ='32px' src ='https://github.com/simple-icons/simple-icons/blob/develop/icons/gnubash.svg'>
