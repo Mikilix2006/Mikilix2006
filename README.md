@@ -7,7 +7,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👋 &nbsp;About Me
 
 
 💡 &nbsp;I like exploring new technologies and developing software solutions.\
