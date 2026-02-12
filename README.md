@@ -87,10 +87,15 @@
 
 <br>
 
-[NovaBank](https://github.com/Mikilix2006/Proyecto1DIW-DWEC)
+<h2>Proyects I've Contributed 📂 </h2>
 
-<a href="https://github.com/Mikilix2006/Proyecto1DIW-DWEC"><img width="278" src="https://github.com/Mikilix2006/Proyecto1DIW-DWEC.vercel.app/api/pin/?username=Mikilix2006&repo=Proyecto1DIW-DWEC&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Proyecto1DIW-DWEC"></a>
-    
+<a href="https://github.com/Mikilix2006/Proyecto1DIW-DWEC"><img width="200" src="assets/NovaBankLogo.png"></a>
+
+<br>
+
+<h2>Working On 🏗️ </h2>
+
+<!--a href="https://github.com/Mikilix2006/TOONizator"><img width="200" style="border-radius=25px" src="assets/TOONizator.png"></a-->
 
 <br>
 
