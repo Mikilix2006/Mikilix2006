@@ -87,6 +87,13 @@
 
 <br>
 
+[NovaBank](https://github.com/Mikilix2006/Proyecto1DIW-DWEC)
+
+<a href="https://github.com/Mikilix2006/Proyecto1DIW-DWEC"><img width="278" src="https://github.com/Mikilix2006/Proyecto1DIW-DWEC.vercel.app/api/pin/?username=Mikilix2006&repo=Proyecto1DIW-DWEC&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Proyecto1DIW-DWEC"></a>
+    
+
+<br>
+
 
 <!--h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2-->
 <!--<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> -->
