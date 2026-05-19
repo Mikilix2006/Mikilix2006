@@ -13,7 +13,7 @@
 💡 &nbsp;I like exploring new technologies and developing software solutions.\
 🎓 &nbsp;I am currently studying a higher degree in Web Application Development.\
 🌱 &nbsp;I am learning about Artificial Intelligence.\
-✍️ &nbsp;In my free time, I develop small project ideas or solve katas on [Codewars](https://www.codewars.com/).\
+✍️ &nbsp;In my free time, I develop small project ideas or solve katas on [Codewars](https://www.codewars.com/users/Mikilix).\
 💬 &nbsp;Feel free to contact me whenever you want..\
 ✉️ &nbsp;You can write me an email at miguel.gonzalezdelgado06@gmail.com and I will try to respond as soon as possible!.\
 ⚡ "Code is like humor. When you have to explain it, it’s bad."
@@ -52,6 +52,11 @@
   <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/tensorflow.svg'> 
   <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/python.svg'>
   <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/csharp.svg'>
+</div>
+
+<h4>🥋 My Codewars Badge</h4>
+<div>
+  <a href="https://www.codewars.com/users/Mikilix"><img src ='https://www.codewars.com/users/Mikilix/badges/large'></a>
 </div>
 
 
