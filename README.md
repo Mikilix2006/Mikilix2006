@@ -45,6 +45,7 @@
   <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/html.svg'>
   <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/css.svg'>
   <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/javascript.svg'>
+  <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/bootstrap.svg'>
 </div>
 
 <h4>👨‍🎓 Learning by myself...</h4>
