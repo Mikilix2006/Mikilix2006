@@ -11,7 +11,7 @@
 
 
 💡 &nbsp;I like exploring new technologies and developing software solutions.\
-🎓 &nbsp;I am currently studying a higher degree in Web Application Development.\
+🎓 &nbsp;I am currently studying an AI engineering.\
 🌱 &nbsp;I am learning about Artificial Intelligence.\
 ✍️ &nbsp;In my free time, I develop small project ideas or solve katas on [Codewars](https://www.codewars.com/users/Mikilix).\
 💬 &nbsp;Feel free to contact me whenever you want..\
