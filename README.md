@@ -101,7 +101,8 @@
 
 <h2>Working On 🏗️ </h2>
 
-<a href="https://github.com/Mikilix2006/TOONizator"><img width="200" src="assets/TOONizatorLogo.png"></a>
+<!--a href="https://github.com/Mikilix2006/TOONizator"><img width="200" src="assets/TOONizatorLogo.png"></a-->
+<a href="https://github.com/Mikilix2006/MotoGP-Paradise"><img width="200" src="assets/MotoGPStats.png"></a>
 
 <br>
 
